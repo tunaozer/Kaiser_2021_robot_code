@@ -1,0 +1,20 @@
+//Head//
+main
+drive_subsystem
+constans
+robotcontainer
+Climber_Elevator_Subsystem
+Climbdowncommand
+elevatorcommand
+elevatorarmcommand
+
+
+
+//Sub-Head// "Notlar"
+DifferentialDrivetrainSim.class çok önemli
+robotbase.class çok önemli
+XboxController.class für joystick
+public void periodic()===> bütün subsystemlerde olmalı
+generichid=HUMAN INTERFACE DEVİCE
+
+
